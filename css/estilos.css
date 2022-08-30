@@ -19,6 +19,7 @@ p {
   max-width: 80%;
   margin: auto;
 }
+
 /* 1 INICIO CABECERO  */
 header {
   width: 100%;
@@ -40,21 +41,7 @@ header {
   width: 50%;
   margin-left: 3rem;
 }
-/* .buscador  */
-/* .buscador{
-  width: 20%;
-  padding: 0.5rem;
-  padding: 0 2rem;
-  height: 4rem;
-  color: #b2815c;
-  border: 1px solid black;
 
-}
-.buscador input{
-  width: 70%;
-  border-color: #605e5c;
-  border-radius: 0.5rem;
-} */
 /* navegador  */
 .nav {
   width: 60%;
@@ -156,6 +143,9 @@ header {
   width: 20%;
   margin: auto;
   /* border: 1px solid black; */
+}
+.virtud-btn{
+  text-align: center;
 }
 .virtud-img{
   /* border: 1px solid black; */
